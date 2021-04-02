@@ -8,6 +8,8 @@ __promote geospatial technologies, advance innovative and creative problem solvi
 
 We ofter project support, employment opportunities, help desk services, and educational content related to both desktop and script based geospatail analysis. You can learn more about us at our [website](https://gis.colostate.edu/) or by sending an email to gis@colostate.edu. 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/GeospatialCentroid/videoTutorialSeries)
+
  
  <!-- 
 You can find me on [![Twitter][1.2]][1] and [![Youtube][2.2][1]
